@@ -1,11 +1,11 @@
 {
-    "token": "Bot token here",
-    "clientid": "Client ID here",
+    "token": "NTY0MDc4NjA4MDIxMTkyNzI1.XKuEug.IWaq7o-F02fonJQwafcwjey8fII",
+    "clientid": "564078608021192725",
     "prefix": "!",
-    "chat": "general",
+    "chat": "hh",
     "userrole": "339841406409375754",
     "evalAllowed": false,
-    "ownerid": "Your User ID",
+    "ownerid": "272004278082600960",
     "logging": true,
     "captchaType": "image",
     "commands": {
